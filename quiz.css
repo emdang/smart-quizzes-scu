@@ -1,0 +1,52 @@
+
+header{
+  width:100%;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: #489D65;
+  padding: 5px 0px;
+  margin:0;
+}
+body{
+  font-family:garamond;
+  font-size:22px;
+}
+h1{
+  align-self: center;
+  justify-content: center;
+  text-align:center;
+  color:white;
+  font-size:36px;
+}
+h2{
+  text-align:left;
+  color:black;
+  margin-left:30px;
+  font-size:28px;
+}
+.answers{
+  margin-left:50px;
+  font-size: 22px;
+  margin-bottom:15px;
+}
+.answers input{
+
+}
+#button {
+  background-color: #489D65; 
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 7px 25px;
+  text-align: center;
+  font-family:garamond;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-left:30px;
+}
+#score{
+  text-align:center;
+  font-size:28px;
+}
